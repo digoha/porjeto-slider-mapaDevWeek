@@ -47,3 +47,5 @@ btnVoltar.addEventListener("click", function(){
 
     mostrarCartao(cartaoAtual);
 });
+
+//
